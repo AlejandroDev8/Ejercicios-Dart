@@ -15,6 +15,7 @@ El algoritmo debe pedir las horas del trabajador y devolver el salario que se le
 ## Ejercicio 2
 
 Una panadería vende pan fresco y pan del día anterior, este último con un descuento del 60%, el pan fresco se vende a $5 la pieza.
+
 Implementar un algoritmo que lea la cantidad de piezas vendidas y cuántas de esas piezas fueron “frescas” y devuelva como resultado la ganancia del día, indicando cuanto se gano por piezas frescas y piezas del día anterior.
 
 ## Ejercicio 3
